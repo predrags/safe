@@ -33,7 +33,7 @@ else:
     DEBUG = True
 
 ALLOWED_HOSTS = [
-    'fierce-thicket-77196.herokuapp.com',
+    'vcusafe.herokuapp.com',
     'localhost',
 ]
 
